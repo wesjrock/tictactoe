@@ -22,3 +22,18 @@ Run Tic Tac Toe with:
   $ make
   $ make run
 ```
+
+HOW TO PLAY
+--------------------------------------------------
+
+```bash
+  You can choose between two modes
+	1 - PLAYERS vs PLAYER
+	2 - PLAYER vs CPU
+	
+	If you choose PLAYER vs CPU, you can select three difficulty modes (1 - Easy, 2 - Medium, 3 - Hard)
+	
+	To play the game you just type the row and column number (The first row and column are 0 0)
+	
+	There's also a SAVE and LOAD option (These were made to practice File I/O)
+```
