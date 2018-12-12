@@ -31,9 +31,12 @@ HOW TO PLAY
 	* PLAYERS vs PLAYER
 	* PLAYER vs CPU
 	
-	If you choose PLAYER vs CPU, you can select between three difficulty modes (1 - Easy, 2 - Medium, 3 - Hard)
+	If you choose PLAYER vs CPU, you can select between three difficulty modes:
+	* Easy
+	* Medium
+	* Hard
 	
-	To play the game you just have to type the row and column number (The first row and column are 0 0)
+	To play the game you have to type the row and column number (The first row and column are 0 0)
 	
 	There's also a SAVE and LOAD option (These were made to practice File I/O)
 ```
