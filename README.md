@@ -10,8 +10,6 @@ This is an implementation of a tic tac toe game for the [Introduction to Compute
 BUILD AND INSTALL
 --------------------------------------------------
 
-For developers and builders follow the steps below.
-
 Clone Tic Tac Toe repository:
 
 ```bash
