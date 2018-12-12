@@ -38,4 +38,4 @@ HOW TO PLAY
 	There's also a SAVE and LOAD option (These were made to practice File I/O)
 ```
 
-You can find more information about the assignment in the files: assignment report.pdf and presentation.pptx
+You can find more information about the assignment in the files: `assignment report.pdf` and `presentation.pptx`
